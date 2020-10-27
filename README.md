@@ -113,7 +113,7 @@ This will be an application that should store incoming and outgoing financial tr
 
 [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Transactions&uri=https%3A%2F%2Fgist.githubusercontent.com%2Fmorikawa77%2F8d02ff1ac18f5e1afc2e923ff689762b%2Fraw%2Fd2a660efe2819195695a44dd8f4815d3517b2e2b%2Finsomnia_transactions.json)
 
-<a target="_blank" href="https://www.notion.so/Rocketseat-Importando-arquivos-CSV-com-Node-js-50d34b9f6e55473baac41647fc85192f">Importing files CSV with nodejs</a>
+<a target="_blank" href="https://www.notion.so/Rocketseat-Importando-arquivos-CSV-com-Node-js-50d34b9f6e55473baac41647fc85192f">Importing CSV files with nodejs</a>
 
 
 
